@@ -12,7 +12,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "canvas": "^2.6.1",
     "discord.js": "^12.4.1",
-    "dotenv": "^8.2.0"
+    "dotenv": "^8.2.0",
+    "node-superfetch": "^0.1.10"
   }
 }
